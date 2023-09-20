@@ -3,4 +3,4 @@ California, Berkeley. My research interests lie in higher education,
 socioeconomic mobility, stratification, and organizations. 
 
 Learn more about my projects 
-[here](http://jacqueline-rw-brown.github.io/project).
+[here](http://jacqueline-rw-brown.github.io/projects).
