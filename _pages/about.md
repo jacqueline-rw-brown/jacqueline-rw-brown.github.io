@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in the department of Sociology at University of California, Berkeley. I am a mixed-methodologist who is interested in access to higher education, organizational change, and socioeconomic mobility. I have experience in quantitative, computational, interview, and case study methods. 
+I am a PhD student in the department of Sociology at [University of California, Berkeley](https://sociology.berkeley.edu/graduate-student/jacqueline-brown). I am a mixed-methodologist who is interested in access to higher education, organizational change, and socioeconomic mobility. I have experience in quantitative, computational, interview, and case study methods. 
 
 Affiliations
 ======
