@@ -11,4 +11,4 @@ I am a Berkeley Fellow and a fourth year PhD student in the department of Sociol
 
 Affiliations
 ======
-I am affiliated with UC Berkeley's [Insitute for the Study of Societal Issues](https://issi.berkeley.edu/people/jacqueline-brown). I received my bachelor's degree in Sociology with a special concentration in Business Management from Columbia University. 
+I am affiliated with UC Berkeley's [Insitute for the Study of Societal Issues](https://issi.berkeley.edu/people/jacqueline-brown). I received my bachelor's degree in Sociology with a special concentration in Business Management from Columbia University and received my master's degree in Sociology from UC Berkeley.
