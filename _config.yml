@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Jacqueline Brown"
+title                    : "Jacqueline R.W. Brown"
 title_separator          : "-"
-name                     : &name "Jacqueline Brown"
+name                     : &name "Jacqueline R.W. Brown"
 description              : &description "I am a PhD student in the department of Sociology at University of California, Berkeley. I am a mixed-methods researcher whose research focuses on access to higher education, organizational change, and socioeconomic inequality."
 url                      : https://jacqueline-rw-brown.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "jacqueline-rw-brown/jacqueline-rw-brown.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Jacqueline Brown"
+  name             : "Jacqueline R.W. Brown"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student in Sociology"
   location         : "Berkeley, CA"
